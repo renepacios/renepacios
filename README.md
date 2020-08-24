@@ -1,4 +1,7 @@
 ### Hi there 👋
+                                                   \||||||/
+                                                   ( o o )
+--------------------------------------------- oooO---(_)---Oooo---------------------------------------
 
 <!--
 **rene15009/rene15009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +9,7 @@
 
 💬 I'm René Pacios, from A Coruña (Galicia). I'm a passionate about technology and innovation and geek by vocation. I'm always looking for a way to automate tasks and make machines work for me, that's what we created them for, right? ;-)
 
-💻 My Code mainly focus in Microsoft Technologies but you can found some pieces of JavaScript code too.
+💻 My Code mainly focus in Microsoft Technologies but you can found some code pieces from other technologies too.
 
 
 Here are some ideas to get you started:
@@ -25,3 +28,8 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ...
      - ⚡ Fun fact: ...
 -->
+				                           oooO
+				                          (    )      Oooo
+-----------------------------------------------\  (-----(    )----------------------------------------
+                 		                       \_)      )  /
+					                               (_/
