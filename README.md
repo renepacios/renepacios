@@ -12,7 +12,7 @@
 💻 My Code mainly focus in Microsoft Technologies but you can found some code pieces from other technologies too.
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on [Balidea](https://balidea.com)
 <!-- - 🌱 I’m currently learning ...
@@ -21,6 +21,8 @@ Here are some ideas to get you started:
      - 💬 Ask me about ...
 -->
 - 📫 How to reach me: 
+  - [Web](https://www.webrene.es/)
+  - [Blog](https://blog.webrene.es/)
   - [Linkedin](https://www.linkedin.com/in/rene-pacios-b5170917/)
   - [Twitter](https://twitter.com/rene15009)
   - [Overflow My Brain](https://blog.webrene.es/)
