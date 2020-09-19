@@ -21,11 +21,10 @@
      - 💬 Ask me about ...
 -->
 - 📫 How to reach me: 
-  - [Web](https://www.webrene.es/)
-  - [Blog](https://blog.webrene.es/)
+  - [Personal Web](https://www.webrene.es/)
   - [Linkedin](https://www.linkedin.com/in/rene-pacios-b5170917/)
   - [Twitter](https://twitter.com/rene15009)
-  - [Overflow My Brain](https://blog.webrene.es/)
+  - [Blog - Overflow My Brain](https://blog.webrene.es/)
 
 <!-- - 😄 Pronouns: ...
      - ⚡ Fun fact: ...
