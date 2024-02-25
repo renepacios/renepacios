@@ -15,11 +15,13 @@
 
 
 - 🔭 I’m currently working on [Balidea](https://balidea.com)
-<!-- - 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... everything I can
+  <!--
      - 👯 I’m looking to collaborate on ...
      - 🤔 I’m looking for help with ...
      - 💬 Ask me about ...
--->
+   -->
+
 - 📫 How to reach me: 
   - [Personal Web](https://www.webrene.es/)
   - [Linkedin](https://www.linkedin.com/in/rene-pacios-b5170917/)
@@ -29,8 +31,11 @@
 <!-- - 😄 Pronouns: ...
      - ⚡ Fun fact: ...
 -->
+<!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card -->
+![René's GitHub stats](https://github-readme-stats.vercel.app/api?username=renepacios&hide=contribs)
+
 				                  oooO
 				                 (    )      Oooo
-	   ---------------------------------------\  (------(    )------------------------------
+	   ---------------------------------------\  (------(    )---------------------------------------------
 						   \_)       )  /
 							     (_/
